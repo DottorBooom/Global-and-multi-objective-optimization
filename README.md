@@ -2,6 +2,8 @@
 
 ## Index 
 
++ [Genetic algorithms](#genetic-algorithms)
+
 ## Introduction
 
 + It will be entirely in English, slides made by the professor on which I will take notes lesson after lesson.
@@ -23,11 +25,20 @@
 + **Policy optimization**
 + **Theory of evolutionary computation**
 
-
 ### Common rules & principles
 
 + Every question is **legitimate and useful**, ask what you do not understand
 + Main pourpose it to **learn**, not to grade
 + Learning is a **process**, not a result
 + Nobody is perfect or always right: **errors and mistake are natural**
-+ **Learning is a process in our personal brain**, not in other's one. **Clash with your limits** before check the solutionù
++ **Learning is a process in our personal brain**, not in other's one. **Clash with your limits** before check the solution
+
+## Genetic algorithms
+
+Information about the course and what to expect, including recommended books. 
+Examples of what this course will cover
+
++ Genetic algorithms, story, functioning, evolution cycle (generation, parameters, selection, crossovers and mutation)
++ Variants of the algorithm 
+
+Slides are available [here](Lecture_1/)
