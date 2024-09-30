@@ -11,17 +11,29 @@
 ### What you will learn
 
 **Genetic alforithms**
+
 **Evolution strategies**
+
 **Genetic programming**
+
 **Particle swarm optimization and anti-colony optimization**
+
 **Differential evolution**
+
 **Neuroevolutioin**
+
 **EDA and CMA-ES**
+
 **Parallel implementations**
+
 **Multi-objective optimization**
+
 **Coevolution**
+
 **Policy optimization**
+
 **Theory of evolutionary computation**
+
 
 ### Common rules & principles
 
