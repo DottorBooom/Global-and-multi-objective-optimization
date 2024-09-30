@@ -39,6 +39,5 @@ Information about the course and what to expect, including recommended books.
 Examples of what this course will cover
 
 + Genetic algorithms, story, functioning, evolution cycle (generation, parameters, selection, crossovers and mutation)
-+ Variants of the algorithm 
 
 Slides are available [here](Lecture_1/)
