@@ -3,6 +3,7 @@
 ## Index 
 
 + [Genetic algorithms](#genetic-algorithms)
++ [Master's index](https://github.com/DottorBooom/Master-in-Data-Science-and-Artificial-Intelligence) 
 
 ## Introduction
 
