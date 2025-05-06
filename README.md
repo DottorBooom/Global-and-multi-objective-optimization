@@ -11,7 +11,7 @@
 
 + It will be entirely in English, slides made by the professor on which I will take notes lesson after lesson.
 + Some books have also been recommended if you want to follow from there or go deeper, I will try to upload those as well.
-+ The final exam will consist of a project assigned by the professor and anb oral presentation for exposing it. The professor will ask about project's topic
++ The final exam will consist of a project assigned by the professor and an oral presentation for exposing it. The professor will ask about project's topic too.
 
 ### What you will learn
 
@@ -44,7 +44,8 @@ Examples of what this course will cover
 + Genetic algorithms: story, functioning, evolution cycle (generation, parameters, selection, crossovers and mutation), variants of GA and speial rapresentations.
 + First notebook of the course that introduce an GA algorithm with a binary string and compare the result with other algorithms (random, hill climbing and simulated annealing). It shows how does it work, how to write a propper fit and some particular case.
 
-Slides are available [here](Lectures/Lecture_1/)
+Slides are available [here](Lectures/1_Genetic_algorithms.pdf)
+Notebook is available [here](Lectures/1_Genetic_algorithms_Ex.ipynb)
 
 ## Evolution strategies
 
