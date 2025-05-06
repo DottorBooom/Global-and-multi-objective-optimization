@@ -45,6 +45,7 @@ Examples of what this course will cover
 + First notebook of the course that introduce an GA algorithm with a binary string and compare the result with other algorithms (random, hill climbing and simulated annealing). It shows how does it work, how to write a propper fit and some particular case.
 
 Slides are available [here](Lectures/1_Genetic_algorithms.pdf)
+
 Notebook is available [here](Lectures/1_Genetic_algorithms_Ex.ipynb)
 
 ## Evolution strategies
@@ -52,11 +53,69 @@ Notebook is available [here](Lectures/1_Genetic_algorithms_Ex.ipynb)
 + Evolution strategies: the ideas, parameters and cycle, mutation and recombinations
 + Notebook that contain an implementation of an evolution strategies that try to find the optimum inside different 3Ds functions.
 
-Slides are available [here](Lectures/Lecture_2/)
+Slides are available [here](Lectures/2_Evolution_strategies.pdf)
 
-## Intro to genetic programming
+Notebook is available [here](Lectures/2_Evolution_strategies_Ex.ipynb)
+
+## Intro to genetic programming (pt. 1)
 
 + Genetic programmin: outlines, the evolution cycle, the rappresentations and sufficiency rule. The initialisation methods, crossover methods and mutation methods. Automatically defined functions nad what is bloat and how to solve it.
-+  Notebook that contain that show how to use an implmentation of a simbolic regression using the library gp learn. it is shown how does it work and the results.
++ Notebook that show how to use an implmentation of a simbolic regression using the library gp learn. it is shown how does it work and the results.
 
-Slides are available [here](Lectures/Lecture_3/)
+Slides are available [here](Lectures/3_Genetic_programming.pdf)
+
+Notebook is available [here](Lectures/3_Genetic_programming_Ex.ipynb)
+
+## Intro to genetic programming (pt. 2)
+
++ Other type of GP: linear GP, what is it and motivations. Cartesian GP, what is it and encoding. Grammatical Evolution, what is it, how it works and some example.
++ Notebook implementation of linear GP for solving equations.
+
+Slides are available [here](Lectures/4_Genetic_programming.pdf)
+
+Notebook is available [here](Lectures/4_Linear_GP_Ex.ipynb)
+
+## Differential evolution, particle swarm optimisation and ant colony optimisation
+
++ Differential evolution: what is it and how it works, mutation and crossover.
++ Particle swarm optimization: the idea, definition, the velocity components, parameters and selection of them.
++ Ant colony optimization: stigmergy in nature and the system, what is it and the cycle. How it works and how it's updated.
+
+Slides are available [here](Lectures/5_Diff_evolution_particle_swarm_and_ant_colony.pdf)
+
+## Geometric semantic
+
++ Geometric operators: the metric spaces. Geometric crossover and mutation,
++ Semantic operators: syntax vs semantics, the geometric semantic crossover and the effect on the semantics. 
+
+Slides are available [here](Lectures/6_Geometric_semantic.pdf)
+
+## Estimation of distribution algorithms
+
++ EDA: implicit and explicit models, classificataion problem, generative vs discriminative models, rejection and region-based sampling, and other methods.
++ Notebook that contains how EDA can be used to solve OneMax problem
+
+Slides are available [here](Lectures/7_EDA.pdf)
+
+Notebook is available [here](Lectures/7_EDA_Ex.ipynb)
+
+## Covariance matrix adaptation evolution strategy
+
++ CMA-ES: what is it and how it works, sampling and rapresentation of individuals. How a cycle works, update and weights. 
++ Notebook implements CMA-ES for finding the minimum of Ackley function.
+
+Slides are available [here](Lectures/8_CMA-ES.pdf)
+
+Notebook is available [here](Lectures/8_CMA-ES_Ex.ipynb)
+
+## Policy optimisation
+
++ Policy optimisation: types of policy, Q-learning and model-free-Q-learning. Sparse policy optimisation and the rule systems. How the rules trigger, resolve conflicts and different type of space. Pitt approach and the Samuel cycle. The ZCS algorithm and the more advanced XCS.
+
+Slides are available [here](Lectures/9_Policy_optimization.pdf)
+
+Notebook is available [here](Lectures/9_Policy_optimization_Ex.ipynb)
+
+## Distributed methods coevolution
+
++ Parallel and distributed methods
