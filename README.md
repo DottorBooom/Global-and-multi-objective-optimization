@@ -4,8 +4,8 @@
 
 + [Genetic algorithms](#genetic-algorithms)
 + [Evolution strategies](#evolution-strategies)
-+ [Intro to genetic programming (pt. 1)](#intro-to-genetic-programming-(pt.-1))
-+ [Intro to genetic programming (pt. 2)](#intro-to-genetic-programming-(pt.-2))
++ [Intro to genetic programming (pt. 1)](#intro-to-genetic-programming-(pt-1))
++ [Intro to genetic programming (pt. 2)](#intro-to-genetic-programming-(pt-2))
 + [Differential evolution, particle swarm optimisation and ant colony optimisation](#differential-evolution,-particle-swarm-optimisation-and-ant-colony-optimisation)
 + [Geometric semantic](#geometric-semantic)
 + [Estimation of distribution algorithms](#estimation-of-distribution-algorithms)
@@ -67,7 +67,7 @@ Slides are available [here](Lectures/2_Evolution_strategies.pdf)
 
 Notebook is available [here](Lectures/2_Evolution_strategies_Ex.ipynb)
 
-## Intro to genetic programming (pt. 1)
+## Intro to genetic programming (pt 1)
 
 + Genetic programmin: outlines, the evolution cycle, the rappresentations and sufficiency rule. The initialisation methods, crossover methods and mutation methods. Automatically defined functions nad what is bloat and how to solve it.
 + Notebook that show how to use an implmentation of a simbolic regression using the library gp learn. it is shown how does it work and the results.
@@ -76,7 +76,7 @@ Slides are available [here](Lectures/3_Genetic_programming.pdf)
 
 Notebook is available [here](Lectures/3_Genetic_programming_Ex.ipynb)
 
-## Intro to genetic programming (pt. 2)
+## Intro to genetic programming (pt 2)
 
 + Other type of GP: linear GP, what is it and motivations. Cartesian GP, what is it and encoding. Grammatical Evolution, what is it, how it works and some example.
 + Notebook implementation of linear GP for solving equations.
